@@ -25,19 +25,19 @@ Bash command - `$ python -t 3D_model.py`
 
 ### 3. Create a 2D plot, which compares prices per square meter (on the x-axis) and distance to Nørreport st. (y-axis) for all housing on Sjæland for the year 2005 and where the zip code is lower than 3000 and the price per square meter is lower than 80000Dkk. Describe in words what you can read out of the plot. Formulate a hypothesis on how the values on the two axis might be related.
 
-![Text](https://github.com/HakimiX/Assignment3-release/blob/master/scatterplot.png)
+![Text](https://github.com/HakimiX/Assignment4-Release/blob/master/Models/defined_city_sales.png)
 
 ### 4. Create a histogram (bar plot), which visualizes the frequency of house trades per zip code area corresponding to the entire dataset of housing sale records.
 
-![Text](https://github.com/HakimiX/Assignment3-release/blob/master/scatterplot.png)
+![Text](https://github.com/HakimiX/Assignment4-Release/blob/master/Models/histoByZip.png)
 
 ### 5. Create a cumulatve histogram, which visualizes the frequency of house trades per zip code area corresponding to the entire dataset of housing sale records and the vertical bars are colored to the frequency of rooms per sales record. That is, a plot similar to the following, where single rooms are in the bottom and two room frequencies on top, etc.
 
-![Text](https://github.com/HakimiX/Assignment3-release/blob/master/scatterplot.png)
+![Text](https://github.com/HakimiX/Assignment4-Release/blob/master/Models/histoByRoomsNum.png)
 
 ### 6. Now, you create a 3D histogram, in which you plot the frequency of house trades per zip code area as a 'layer' for every in the dataset, see http://matplotlib.org/examples/mplot3d/index.html for an example.
 
-![Text](https://github.com/HakimiX/Assignment3-release/blob/master/scatterplot.png)
+![Text](https://github.com/HakimiX/Assignment4-Release/blob/master/Models/zipcode_sales_3D.png)
 
 ### 7. Freestyle Create a plot, which visualizes a fact hidden in the housing sales data, which you want to highlight to business people.
 
