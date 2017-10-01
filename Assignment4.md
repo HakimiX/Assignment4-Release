@@ -23,7 +23,7 @@ Error
 
 ## 2. Task
 
-[Folium plot HTML](https://www.google.com)
+Folium HTML is to big to show [Folium plot HTML](https://github.com/HakimiX/Assignment4-Release/blob/master/Models/folium_plot_2d.html)
 
 ## 3. Task
 
