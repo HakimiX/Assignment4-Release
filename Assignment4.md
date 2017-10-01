@@ -27,7 +27,7 @@ Folium HTML is to big to show [Folium plot HTML](https://github.com/HakimiX/Assi
 
 ## 3. Task
 
-![Text](https://github.com/HakimiX/Assignment4-Release/blob/master/Models/defined_city_sales.png)
+![Text](https://github.com/HakimiX/Assignment4-Release/blob/master/Models)
 
 ## 4. Task
 
